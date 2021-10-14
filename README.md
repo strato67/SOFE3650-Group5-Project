@@ -11,7 +11,7 @@ Faisal Alsheet - 100639174
 
 # Table of Contents
 
-1. [**Exercise 1**](https://github.com/strato67/SOFE3650-Group-5-Assignment-3/tree/master/Exercise%201/com/company)
+1. [**Exercise 1**](https://github.com/strato67/SOFE3650-Group5-Project-Proposal/blob/main/Group%205%20Software-Design-Proposal.pdf)
 2. [**Exercise 2**]()
 4. [**Exercise 3**]()
 5. [**Exercise 4**]()
