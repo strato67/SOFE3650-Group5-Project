@@ -1,13 +1,12 @@
 # SOFE3650-Group5-Project-Proposal
-# SOFE3650-Group-5-Assignment-3
 
-Faisal Alsheet - 100639174
+Saaransh Sharma - 100701820
 
 Mike Frackowiak - 100401611
 
 Jean-paul Saliba - 100741759
 
-Saaransh Sharma - 100701820
+Faisal Alsheet - 100639174
 
 
 # Table of Contents
