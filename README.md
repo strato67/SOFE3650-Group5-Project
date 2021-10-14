@@ -1,4 +1,4 @@
-# SOFE3650-Group5-Project-Proposal
+# SOFE3650 Group5 Project Proposal
 
 Saaransh Sharma - 100701820
 
