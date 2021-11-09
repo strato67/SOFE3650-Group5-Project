@@ -15,11 +15,11 @@ Faisal Alsheet - 100639174
 
 Project Progress Report
 
-[**Use Case model**]
+1 - [**Use Case model**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/placeholder.txt)
     
-[**Quality Attributes**]
+2 - [**Quality Attributes**]
     
-[**Constraints and Concerns**]
+3 - [**Constraints and Concerns**]
     
 <!--- 2. **Interfaces**
     1. [IphoneFactory](/src/com/company/IphoneFactory.java)
