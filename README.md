@@ -13,13 +13,13 @@ Faisal Alsheet - 100639174
 
 [**Proposal**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Group5_Software-Design-Proposal.pdf)
 
-#Project Progress Report
+Project Progress Report
 
-    1. [**Use Case model**]
+[**Use Case model**]
     
-    2. [**Quality Attributes**]
+[**Quality Attributes**]
     
-    3. [**Constraints and Concerns**]
+[**Constraints and Concerns**]
     
 <!--- 2. **Interfaces**
     1. [IphoneFactory](/src/com/company/IphoneFactory.java)
