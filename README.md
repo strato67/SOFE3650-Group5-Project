@@ -15,7 +15,7 @@ Faisal Alsheet - 100639174
 
 Project Progress Report
 
-1 - [**Use Case model**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/placeholder.txt)
+1 - [**Use Case model**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/Use Case Models.pdf)
     
 2 - [**Quality Attributes**]
     
