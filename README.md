@@ -17,7 +17,7 @@ Project Progress Report
 
 1 - [**Use Case model**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/Use%20Case%20Models.pdf)
     
-2 - [**Quality Attributes**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/Use%20Case%20Models.pdf)
+2 - [**Quality Attributes**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/Quality%20Attributes.pdf)
     
 3 - [**Constraints and Concerns**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/Constraints%20and%20Architectural%20Concerns.pdf)
     
