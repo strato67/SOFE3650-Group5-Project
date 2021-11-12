@@ -11,15 +11,15 @@ Faisal Alsheet - 100639174
 
 # Table of Contents
 
-[**Proposal**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Group5_Software-Design-Proposal.pdf)
+1. [**Proposal**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Group5_Software-Design-Proposal.pdf)
 
-Project Progress Report
+2. [**Project Progress Report**](https://github.com/strato67/SOFE3650-Group5-Project/tree/main/Phase%202%20-%20Project%20Progress%20Report)
 
-1 - [**Use Case model**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/placeholder.txt)
+    2.1 - [**Use Case Model**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/Use%20Case%20Models.pdf)
     
-2 - [**Quality Attributes**]
+    2.2 - [**Quality Attributes**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/Quality%20Attributes.pdf)
     
-3 - [**Constraints and Concerns**]
+    2.3 - [**Constraints and Concerns**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/Constraints%20and%20Architectural%20Concerns.pdf)
     
 <!--- 2. **Interfaces**
     1. [IphoneFactory](/src/com/company/IphoneFactory.java)
