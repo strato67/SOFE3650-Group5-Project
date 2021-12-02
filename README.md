@@ -11,7 +11,7 @@ Faisal Alsheet - 100639174
 
 # Table of Contents
 
-1. [**Proposal**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Group5_Software-Design-Proposal.pdf)
+1. [**Proposal**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%201%20-%20Project%20Proposal/Group5_Software-Design-Proposal.pdf)
 
 2. [**Project Progress Report**](https://github.com/strato67/SOFE3650-Group5-Project/tree/main/Phase%202%20-%20Project%20Progress%20Report)
 
