@@ -22,7 +22,7 @@ Faisal Alsheet - 100639174
     2.3 - [**Constraints and Concerns**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%202%20-%20Project%20Progress%20Report/Constraints%20and%20Architectural%20Concerns.pdf)
     
     
-3. [**Final Project Report**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%203%20-%20Final%20Project%20Report/ADD%20Process%20Final%20Report.pdf)
+3. [**Design of the Use Case**](https://github.com/strato67/SOFE3650-Group5-Project/blob/main/Phase%203%20-%20Design%20of%20the%20Use%20Case/Group-5-ADD-Process-Final-Report.pdf)
 <!--- 2. **Interfaces**
     1. [IphoneFactory](/src/com/company/IphoneFactory.java)
     2. [MacFactory](/src/com/company/MacFactory.java)
